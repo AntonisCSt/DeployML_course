@@ -1,4 +1,4 @@
-Repo fothe course on Deployment of Machine Learning, Deep Learning Model on Cloud
+Repo for the course on Deployment of Machine Learning, Deep Learning Model on Cloud
 
 
 https://www.udemy.com/course/deploy-machine-learning-model/
